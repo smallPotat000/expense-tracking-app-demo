@@ -4,7 +4,7 @@ A simple, responsive budgeting tool built with Next.js and MongoDB that allows u
 
 ## Features
 
-- Add expenses with item name, category, amount, and date (optional, defaults to today)
+- Add expenses with item name, category, amount, and date (optional, defaults to today), saves on MongoDB
 - Monthly budget tracking and reminders
 - Budget management page: Set default or custom categories and budgets, enable/disable budgets
 - Editable expense records, listed in chronological order
