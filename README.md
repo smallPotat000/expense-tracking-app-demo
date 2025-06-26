@@ -18,6 +18,8 @@ A simple, responsive budgeting tool built with Next.js and MongoDB that allows u
 - Backend: API Routes in Next.js
 - Database: MongoDB (via Mongoose)
 
-## Example GIFs
+## Example screenshots
 
-- To be added.
+![Screenshot_homePage](/screenshots/Screenshot_homePage.jpg?raw=true "Home Page")
+
+![Screenshot_settingsPage](/screenshots/Screenshot_settingsPage.jpg?raw=true "Settings Page")
