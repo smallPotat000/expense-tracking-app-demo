@@ -1,4 +1,4 @@
-# 💰 Expense Tracker with Budget Warnings
+# Expense Tracker with Budget Warnings
 
 A simple, responsive budgeting tool built with Next.js and MongoDB that allows users to log expenses by category and monitor monthly budgets.
 
